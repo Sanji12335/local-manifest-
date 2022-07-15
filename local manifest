@@ -2,8 +2,8 @@
 <manifest>
 
  <!--Trees-->
- <project path="device/r2p" name="Sanji12335/android_device_realme_RMX1801.git" remote="github" revision="arrow-12.1" />
- <project path="vendor/r2p" name="Sanji12335/android_vendor_realme_RMX1801.git" remote="github" revision="arrow-12.0" />
- <project path="kernel/r2p" name="Sanji12335/android_kernel_realme_sdm660.git" remote="github" revision="arrow-12.0" />
+ <project path="device/realme/RMX1801" name="Sanji12335/android_device_realme_RMX1801.git" remote="github" revision="arrow-12.1" />
+ <project path="vendor/realme" name="Sanji12335/android_vendor_realme_RMX1801.git" remote="github" revision="arrow-12.0" />
+ <project path="kernel/realme/sdm660" name="Sanji12335/android_kernel_realme_sdm660.git" remote="github" revision="arrow-12.0" />
  
 </manifest>
